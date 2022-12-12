@@ -1,3 +1,4 @@
 - 👋 Hi, I’m @marcarias7
-Aquí coloco Algunas simulaciones de sistemas Dinámicos
-con Python y Matplotlib
+- I’m interested in Astrophysics and cosmology.
+- I’m currently learning python and matplotlib
+- I’m looking to collaborate on cosmology simulations
